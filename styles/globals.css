@@ -1,16 +1,37 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  html{
+    scroll-behavior: smooth;
+  }
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+
+
+.circle-container {
+  background: rgba(0,0,0,.05);
+  position: relative;
+  width: 36em;
+  height: 36em;
+  padding: 10em;
+  /*2.8em = 2em*1.4 (2em = half the width of a link with img, 1.4 = sqrt(2))*/
+  /* border: dashed 1px; */
+  border-radius: 50%;
+  margin: 5em auto 5em;
+}
+.circle-container div {
+  position: absolute;   
+  /* top: 50%;  */
+  /* left: 50%;   */
+  
+}
+.circle-container .center {   
+  width: 30em;
+  height: 30em; 
+  top: 50%; 
+  left: 50%;
+  transform: translate(-15em, -15em);
 }
 
-* {
-  box-sizing: border-box;
-}

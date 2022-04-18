@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56.454" height="78.808" viewBox="0 0 56.454 78.808">
+  <g id="Group_13852" data-name="Group 13852" transform="translate(0.8 0.922)">
+    <g id="Group-107">
+      <g id="Group-36" transform="translate(48.169 19.276)">
+        <line id="Fill-33" y1="12.754" transform="translate(0 0)" fill="#606161"/>
+        <line id="Stroke-35" y1="12.754" transform="translate(0 0)" fill="none" stroke="#f05b41" stroke-width="1.6"/>
+      </g>
+      <g id="Group-40" transform="translate(38.173 22.568)">
+        <line id="Fill-37" y2="12.799" transform="translate(0 0)" fill="#606161"/>
+        <line id="Stroke-39" y2="12.799" transform="translate(0 0)" fill="none" stroke="#f05b41" stroke-width="1.6"/>
+      </g>
+      <g id="Group-44" transform="translate(16.639 22.613)">
+        <line id="Fill-41" y2="12.754" transform="translate(0 0)" fill="#606161"/>
+        <line id="Stroke-43" y2="12.754" transform="translate(0 0)" fill="none" stroke="#f05b41" stroke-width="1.6"/>
+      </g>
+      <g id="Group-48" transform="translate(6.659 19.336)">
+        <line id="Fill-45" y2="12.739" transform="translate(0 0)" fill="#606161"/>
+        <line id="Stroke-47" y2="12.739" transform="translate(0 0)" fill="none" stroke="#f05b41" stroke-width="1.6"/>
+      </g>
+      <g id="Group-52" transform="translate(16.639 42.782)">
+        <line id="Fill-49" y2="12.754" transform="translate(0 0)" fill="#606161"/>
+        <line id="Stroke-51" y2="12.754" transform="translate(0 0)" fill="none" stroke="#f05b41" stroke-width="1.6"/>
+      </g>
+      <g id="Group-56" transform="translate(6.659 39.49)">
+        <line id="Fill-53" y2="12.695" transform="translate(0 0)" fill="#606161"/>
+        <line id="Stroke-55" y2="12.695" transform="translate(0 0)" fill="none" stroke="#f05b41" stroke-width="1.6"/>
+      </g>
+      <g id="Group-60" transform="translate(6.659 59.599)">
+        <line id="Fill-57" y2="12.756" transform="translate(0 0)" fill="#606161"/>
+        <line id="Stroke-59" y2="12.756" transform="translate(0 0)" fill="none" stroke="#f05b41" stroke-width="1.6"/>
+      </g>
+      <g id="Group-64" transform="translate(16.639 62.891)">
+        <line id="Fill-61" y1="12.741" fill="#606161"/>
+        <line id="Stroke-63" y1="12.741" fill="none" stroke="#f05b41" stroke-width="1.6"/>
+      </g>
+      <g id="Group-68" transform="translate(38.173 42.722)">
+        <line id="Fill-65" y1="12.754" transform="translate(0 0)" fill="#606161"/>
+        <line id="Stroke-67" y1="12.754" transform="translate(0 0)" fill="none" stroke="#f05b41" stroke-width="1.6"/>
+      </g>
+      <g id="Group-72" transform="translate(48.169 39.431)">
+        <line id="Fill-69" y2="12.754" transform="translate(0 0)" fill="#606161"/>
+        <line id="Stroke-71" y2="12.754" transform="translate(0 0)" fill="none" stroke="#f05b41" stroke-width="1.6"/>
+      </g>
+      <g id="Group-76" transform="translate(38.173 62.891)">
+        <line id="Fill-73" y2="12.741" transform="translate(0 0)" fill="#606161"/>
+        <line id="Stroke-75" y2="12.741" transform="translate(0 0)" fill="none" stroke="#f05b41" stroke-width="1.6"/>
+      </g>
+      <g id="Group-80" transform="translate(48.169 59.599)">
+        <line id="Fill-77" y2="12.756" transform="translate(0 0)" fill="#606161"/>
+        <line id="Stroke-79" y2="12.756" transform="translate(0 0)" fill="none" stroke="#f05b41" stroke-width="1.6"/>
+      </g>
+      <line id="Stroke-81" y2="3.604" transform="translate(43.72 25.209)" fill="none" stroke="#f05b41" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <line id="Stroke-83" y2="3.589" transform="translate(43.72 44.918)" fill="none" stroke="#f05b41" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <line id="Stroke-85" y2="3.573" transform="translate(43.72 64.628)" fill="none" stroke="#f05b41" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <path id="Stroke-87" d="M47.259,3.629q7.83,3.457,8.007,8.275v.252a2.917,2.917,0,0,1,0,.534V24.377a3.081,3.081,0,0,1,0,.549,2.758,2.758,0,0,1,0,.519q-.354,4.2-6.524,7.3c-.461.237-.951.475-1.483.7A38.748,38.748,0,0,1,38.7,36.018a63.022,63.022,0,0,1-21.636,0,39.784,39.784,0,0,1-8.573-2.579c-.518-.224-.994-.461-1.483-.7C2.709,30.576.529,28.01.47,25.09V12.113C.47,8.8,3.183,5.987,8.478,3.66a55.025,55.025,0,0,1,38.767,0Z" transform="translate(-0.44 -0.133)" fill="none" stroke="current" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" fill-rule="evenodd"/>
+      <path id="Stroke-89" d="M55.258,8.741a8.107,8.107,0,0,1-4.034,5.842,21.113,21.113,0,0,1-2.49,1.483c-.461.224-.951.461-1.483.682l-1.381.595a41.543,41.543,0,0,1-7.178,2.017,62.373,62.373,0,0,1-21.638,0,42.164,42.164,0,0,1-7.191-2.017l-1.381-.595L7,16.065a20.214,20.214,0,0,1-2.477-1.483C1.868,12.745.489,10.654.459,8.311Z" transform="translate(-0.445 3.817)" fill="none" stroke="current" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" fill-rule="evenodd"/>
+      <path id="Stroke-91" d="M7.02,29.585l1.483.682,1.379.58a42,42,0,0,0,7.191,2.032,63.113,63.113,0,0,0,21.639,0,41.855,41.855,0,0,0,7.178-2.032c.473-.193.934-.371,1.379-.58l1.483-.682a23.152,23.152,0,0,0,2.49-1.483,8.084,8.084,0,0,0,4.035-5.842v11.7a3.227,3.227,0,0,1,0,.535,3.017,3.017,0,0,1,0,.518q-.356,4.213-6.525,7.3c-.46.237-.949.475-1.483.7a39.636,39.636,0,0,1-8.557,2.6,62.453,62.453,0,0,1-21.639,0,39.691,39.691,0,0,1-8.57-2.6c-.521-.224-.994-.461-1.483-.7C2.719,40.144.539,37.58.48,34.657V22.14C.6,24.38,1.963,26.4,4.543,28.252a20.646,20.646,0,0,0,2.566,1.274Z" transform="translate(-0.435 10.497)" fill="none" stroke="current" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" fill-rule="evenodd"/>
+      <path id="Stroke-93" d="M8.517,43.819c-.521-.209-.994-.43-1.483-.682a20.287,20.287,0,0,1-2.477-1.483A8.294,8.294,0,0,1,.45,35.841V48.076c0,2.966,2.238,5.5,6.54,7.651l1.483.684a37.651,37.651,0,0,0,8.572,2.6,61.659,61.659,0,0,0,21.638,0,37.744,37.744,0,0,0,8.556-2.6l1.483-.684q6.155-3.07,6.527-7.3V35.841a8.21,8.21,0,0,1-4.034,5.723,21.031,21.031,0,0,1-2.493,1.483,13.671,13.671,0,0,1-1.483.682l-1.378.58a41.624,41.624,0,0,1-7.178,2.032,63.1,63.1,0,0,1-21.638,0,41.837,41.837,0,0,1-7.194-2.032Z" transform="translate(-0.45 17.115)" fill="none" stroke="current" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" fill-rule="evenodd"/>
+      <path id="Stroke-95" d="M37.419,44.783a2.92,2.92,0,0,0,0-.534,2.761,2.761,0,0,0,0-.519Z" transform="translate(17.408 20.926)" fill="none" stroke="current" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
